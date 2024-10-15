@@ -1,3 +1,8 @@
+=(Vector-06C_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 
 This is a MiSTer port of the core by:
 https://github.com/zzemu-cn/LASER310_FPGA_DD20
